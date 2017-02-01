@@ -1,5 +1,8 @@
-## Java-interview-questions
-<a target="_blank" href="https://jsehelper.blogspot.ru/p/sitemap.html">Main Link</a>  
-[Main Link](https://jsehelper.blogspot.ru/p/sitemap.html){:target="_blank"}  
-<a href="http://example.com/" target="_blank">example</a>  
+# Java-interview-questions  
+## [Main Link](https://jsehelper.blogspot.ru/p/sitemap.html)  
 ### Java Core
+
+* [firsh](https://jsehelper.blogspot.ru/2016/01/java-core-1.html)
+* [second](https://jsehelper.blogspot.ru/2016/01/java-core-2.html)
+* [third](https://jsehelper.blogspot.ru/2016/01/java-core-3.html)
+* [fourth](https://jsehelper.blogspot.ru/2016/12/java-core-4.html)
