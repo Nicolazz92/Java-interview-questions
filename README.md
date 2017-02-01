@@ -1,5 +1,6 @@
 # Java-interview-questions  
 ## [Main Link](https://jsehelper.blogspot.ru/p/sitemap.html)  
+## [Java Junior Questions](https://jsehelper.blogspot.ru/2016/01/blog-post_59.html)  
 
 ### OOP
 
