@@ -18,3 +18,17 @@
 * [first](https://jsehelper.blogspot.ru/2016/01/java-collections-framework-1.html)
 * [second](https://jsehelper.blogspot.ru/2016/01/java-collections-framework-2.html)
 * [third](https://jsehelper.blogspot.ru/2016/01/java-collections-framework-3.html)
+
+### Serialization
+
+* [firsh](https://jsehelper.blogspot.ru/2016/01/blog-post_12.html)
+
+### Multithreading
+
+* [first](https://jsehelper.blogspot.ru/2016/01/multithreading-1.html)
+* [second](https://jsehelper.blogspot.ru/2016/01/multithreading-2.html)
+
+### Java I/O
+
+* [first](https://jsehelper.blogspot.ru/2016/02/java-1.html)
+* [second](https://jsehelper.blogspot.ru/2016/02/java-2.html)
