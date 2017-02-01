@@ -1,5 +1,10 @@
 # Java-interview-questions  
 ## [Main Link](https://jsehelper.blogspot.ru/p/sitemap.html)  
+
+### OOP
+
+* [first](https://jsehelper.blogspot.ru/2016/01/blog-post_9.html)
+
 ### Java Core
 
 * [firsh](https://jsehelper.blogspot.ru/2016/01/java-core-1.html)
