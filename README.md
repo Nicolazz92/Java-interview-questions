@@ -32,3 +32,10 @@
 
 * [first](https://jsehelper.blogspot.ru/2016/02/java-1.html)
 * [second](https://jsehelper.blogspot.ru/2016/02/java-2.html)
+
+### JSP/Servlets/JSTL
+
+* [firsh](https://jsehelper.blogspot.ru/2016/01/jsp-servlets-jstl.html)
+* [second](https://jsehelper.blogspot.ru/2016/05/jsp-servlets-jstl-2.html)
+* [third](https://jsehelper.blogspot.ru/2016/05/jsp-servlets-jstl-3.html)
+* [fourth](https://jsehelper.blogspot.ru/2016/05/jsp-servlets-jstl-4.html)
