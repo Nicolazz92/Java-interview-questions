@@ -39,3 +39,7 @@
 * [second](https://jsehelper.blogspot.ru/2016/05/jsp-servlets-jstl-2.html)
 * [third](https://jsehelper.blogspot.ru/2016/05/jsp-servlets-jstl-3.html)
 * [fourth](https://jsehelper.blogspot.ru/2016/05/jsp-servlets-jstl-4.html)
+
+### REST API
+
+* [first](https://ru.wikipedia.org/wiki/REST)
