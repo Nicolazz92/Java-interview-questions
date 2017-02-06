@@ -40,6 +40,10 @@
 * [third](https://jsehelper.blogspot.ru/2016/05/jsp-servlets-jstl-3.html)
 * [fourth](https://jsehelper.blogspot.ru/2016/05/jsp-servlets-jstl-4.html)
 
+### IoC, DI, IoC-container
+
+* [first](https://habrahabr.ru/post/131993/)
+
 ### REST API
 
 * [first](https://ru.wikipedia.org/wiki/REST)
