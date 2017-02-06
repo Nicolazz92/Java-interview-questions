@@ -52,3 +52,8 @@
 ### Pattrens
 
 * [first](https://tproger.ru/translations/design-patterns-for-beginners/)
+
+### ORM, Hibernate
+
+* [first](https://jsehelper.blogspot.ru/2016/01/object-relational-mapping-orm-hibernate.html)
+* [second](https://jsehelper.blogspot.ru/2016/03/object-relational-mapping-orm-hibernate.html)
