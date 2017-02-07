@@ -57,6 +57,10 @@
 
 * [first](https://tproger.ru/translations/design-patterns-for-beginners/)
 
+### JDBC
+
+* [first](https://jsehelper.blogspot.ru/2016/01/jdbc.html)
+
 ### ORM, Hibernate
 
 * [first](https://jsehelper.blogspot.ru/2016/01/object-relational-mapping-orm-hibernate.html)
