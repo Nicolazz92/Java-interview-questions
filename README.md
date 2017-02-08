@@ -61,7 +61,18 @@
 
 * [first](https://jsehelper.blogspot.ru/2016/01/jdbc.html)
 
+### JPA
+
+* [first](https://jsehelper.blogspot.ru/2016/03/java-persistence-api-jpa-1.html)
+* [second](https://jsehelper.blogspot.ru/2016/04/java-persistence-api-jpa-2.html)
+
 ### ORM, Hibernate
 
 * [first](https://jsehelper.blogspot.ru/2016/01/object-relational-mapping-orm-hibernate.html)
 * [second](https://jsehelper.blogspot.ru/2016/03/object-relational-mapping-orm-hibernate.html)
+
+### Spring Framework
+
+* [first](https://jsehelper.blogspot.ru/2016/02/spring-framework-1.html)
+* [second](https://jsehelper.blogspot.ru/2016/03/spring-framework-2.html)
+* [third](https://jsehelper.blogspot.ru/2016/03/spring-framework-3.html)
