@@ -40,10 +40,6 @@
 * [third](https://jsehelper.blogspot.ru/2016/05/jsp-servlets-jstl-3.html)
 * [fourth](https://jsehelper.blogspot.ru/2016/05/jsp-servlets-jstl-4.html)
 
-### IoC, DI, IoC-container
-
-* [first](https://habrahabr.ru/post/131993/)
-
 ### REST API
 
 * [first](https://ru.wikipedia.org/wiki/REST)
@@ -76,3 +72,7 @@
 * [first](https://jsehelper.blogspot.ru/2016/02/spring-framework-1.html)
 * [second](https://jsehelper.blogspot.ru/2016/03/spring-framework-2.html)
 * [third](https://jsehelper.blogspot.ru/2016/03/spring-framework-3.html)
+
+### IoC, DI, IoC-container
+
+* [first](https://habrahabr.ru/post/131993/)
